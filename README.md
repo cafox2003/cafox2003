@@ -1,8 +1,9 @@
 ### Hello there!
-
-- I enjoy writing code in Java and Python
+<!--
+- Pursuing
 - I'm in my second year at Blue Ridge Community College
 - You can reach me at caf21581@email.vccs.edu
+-->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Alt Text" width="100" height="100">
 
 
