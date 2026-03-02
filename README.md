@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Caleb Fox</h1>
 <h3 align="center">Backend & Systems Software Engineer</h3>
 
-
-
+- 🔭 I’m currently working on [Cubing Club @ VT Website](https://github.com/cubingclubvt/club-website)
 - 🌱 I’m currently learning **Linux Kernel Development**
-
 - 📫 How to reach me **cafox2003@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
